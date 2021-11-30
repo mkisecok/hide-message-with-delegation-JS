@@ -7,5 +7,3 @@ Like this:
 
 
 
-
-- ```NOTE: ```  Should be only one event listener on the container, use event delegation.
